@@ -1,0 +1,5 @@
+{
+  "id":"default",
+  "domain":"vagrant-chef-laravel.dev",
+  "doc_root":"public"
+}
